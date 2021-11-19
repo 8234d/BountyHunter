@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/8234d/BountyHunter"><img src="https://github.com/8234d/BountyHunter/blob/main/BountyHunter_htb.png" alt="Markdownify" width="200"></a>
+  <a href="https://github.com/8234d/BountyHunter"><img src="https://github.com/8234d/BountyHunter/blob/main/BountyHunter_htb.png" alt="BountyHunter" width="200"></a>
   <br>
   BountyHunter
   <br>
