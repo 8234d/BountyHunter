@@ -28,6 +28,7 @@ $ sudo pip3 install -r requirements.txt
 $ ./BountyHunter_user.py
 $ ./BountyHunter_root.py
 ```
+Please think that this is done to share techniques not for spoilers, the authors of these exploits are not responsible for the misuse that can be given to the corresponding programs.
 
 ## License
 
