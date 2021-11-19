@@ -32,8 +32,5 @@ $ ./BountyHunter_root.py
 
 ## License
 
-MIT
-
----
-
-> GitHub [@8234d](https://github.com/8234d) 
+> MIT
+> [@8234d](https://github.com/8234d)
