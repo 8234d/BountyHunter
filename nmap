@@ -1,0 +1,38 @@
+# Nmap 7.70 scan initiated Thu Nov 18 19:10:31 2021 as: nmap -sSCV -v -O -oN nmap 10.10.11.100
+adjust_timeouts2: packet supposedly had rtt of -163405 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of -163405 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of -177349 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of -177349 microseconds.  Ignoring time.
+Nmap scan report for 10.10.11.100
+Host is up (0.029s latency).
+Not shown: 998 closed ports
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.2 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
+|_http-favicon: Unknown favicon MD5: 556F31ACD686989B1AFCF382C05846AA
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+|_http-server-header: Apache/2.4.41 (Ubuntu)
+|_http-title: Bounty Hunters
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.70%E=4%D=11/18%OT=22%CT=1%CU=34472%PV=Y%DS=3%DC=I%G=Y%TM=619697
+OS:3E%P=x86_64-pc-linux-gnu)SEQ(SP=103%GCD=1%ISR=105%TI=Z%CI=Z%TS=A)SEQ(SP=
+OS:103%GCD=1%ISR=105%TI=Z%CI=Z%II=I%TS=A)OPS(O1=M54BST11NW7%O2=M54BST11NW7%
+OS:O3=M54BNNT11NW7%O4=M54BST11NW7%O5=M54BST11NW7%O6=M54BST11)WIN(W1=FE88%W2
+OS:=FE88%W3=FE88%W4=FE88%W5=FE88%W6=FE88)ECN(R=Y%DF=Y%T=40%W=FAF0%O=M54BNNS
+OS:NW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%
+OS:DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%
+OS:O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=N)U1(R=Y%DF=
+OS:N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%
+OS:CD=S)
+
+Uptime guess: 33.994 days (since Fri Oct 15 20:19:31 2021)
+Network Distance: 3 hops
+TCP Sequence Prediction: Difficulty=259 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Read data files from: /usr/bin/../share/nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Nov 18 19:11:10 2021 -- 1 IP address (1 host up) scanned in 39.55 seconds
