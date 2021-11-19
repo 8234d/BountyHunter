@@ -9,7 +9,7 @@
 
 <h4 align="center">HackTheBox - <a href="https://app.hackthebox.com/machines/BountyHunter" target="_blank">BountyHunter</a></h4>
 
-![BountyHunter](BountyHunter.png)
+![BountyHunter](https://github.com/8234d/BountyHunter/blob/main/BountyHunter.png)
 
 ## How To Use
 
@@ -32,5 +32,5 @@ $ ./BountyHunter_root.py
 
 ## License
 
-> MIT
+> [GPL v3.0](https://github.com/8234d/BountyHunter/blob/main/LICENSE) &nbsp;&middot;&nbsp;
 > [@8234d](https://github.com/8234d)
