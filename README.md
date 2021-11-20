@@ -22,7 +22,7 @@ $ git clone https://github.com/8234d/BountyHunter/
 $ cd BountyHunter
 
 # Install dependencies
-$ sudo pip3 install -r requirements.txt
+$ pip3 install -r requirements.txt
 
 # Run the app
 $ ./BountyHunter_user.py
